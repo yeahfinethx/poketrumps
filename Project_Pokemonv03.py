@@ -1,3 +1,4 @@
+# This is a test to see how to commmit stuff on Github
 # Project Brief: Top Trumps
 
 # In this project you'll create a small game where players compare stats, similar to the Top Trumps card game. The basic flow of the games is:
